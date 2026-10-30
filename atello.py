@@ -2,7 +2,7 @@
 
 Run setup_db.py once, then run this file:  python food_app.py
 """
-
+# atello
 import mysql.connector
 from mysql.connector import Error
 
